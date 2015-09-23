@@ -7,6 +7,14 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello World!";
+  //declare variables
+   int month_;
+   double smoothing_parameter = 0.1;
+   int demand_in_thousands;
+   
+   
+   
+   
+   
 }
 
